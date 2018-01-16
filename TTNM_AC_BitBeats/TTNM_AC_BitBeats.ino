@@ -5,9 +5,9 @@
 //  Description: An 8-step trigger sequencer and a monophonic, lo-fi chiptune groovebox with three drum sounds and three synth waveforms.
 //
 //  I/O Usage:
-//    Knob A0: Pattern selection (0-255 converted to binary)
-//    Knob A1: Synth wavefrom slection (Saw, Tri, Saw+Squ, Silence)
-//    Analog In A2: Drum waveform slection, can be CV-controlled (Kick, Snare, Percussion, Silence)
+//    Knob A0: Pattern selection (0-255 converted to binary, e.g. "0,1,0,0,1,1,0,1")
+//    Knob A1: Synth wavefrom selection (Saw, Tri, Saw+Squ, Silence)
+//    Analog In A2: Drum waveform selection, can be CV-controlled (Kick, Snare, Percussion, Silence)
 //    Analog In A3: Synth wave pitch, can be CV-controlled (not 1V/oct)
 //    Digital Out D0: Pattern output (trigger on every 1 bit)
 //    Digital Out D1: Inverted pattern output (trigger on every 0 bit)
