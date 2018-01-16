@@ -8,7 +8,7 @@
 //    Knob A0: Pattern selection (0-255 converted to binary)
 //    Knob A1: Synth wavefrom slection (Saw, Tri, Saw+Squ, Silence)
 //    Analog In A2: Drum waveform slection, can be CV-controlled (Kick, Snare, Percussion, Silence)
-//    Analog In A3: Synth wave pitch (not 1V/oct)
+//    Analog In A3: Synth wave pitch, can be CV-controlled (not 1V/oct)
 //    Digital Out D0: Pattern output (trigger on every 1 bit)
 //    Digital Out D1: Inverted pattern output (trigger on every 0 bit)
 //    Clock In: External clock input
