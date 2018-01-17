@@ -4,6 +4,7 @@
 //
 //  Description: A wavefolder and wave-combiner/mixer/multiplier for CV and audio, with a clock divider output.
 //
+//  Demo video: https://www.youtube.com/watch?v=weYYc37__aU&list=PLa9Em_H8Xs_b2zcSwXT3ZHS4q_2oWKTOA&index=13
 //
 //  I/O Usage:
 //    Knob A0: Threshold above which Wave 1 will be output, below will be the inverted Wave 2
